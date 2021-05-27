@@ -1,0 +1,33 @@
+@media screen and (max-width: 1240px) {
+  div.sobreCriadores {
+    width: 49%;
+  }
+  div.principal {
+    width: 98%;
+  }
+}
+@media screen and (max-width: 800px) {
+  div.sobreCriadores {
+    width: 95%;
+  }
+}
+@media screen and (max-width: 880px) {
+    div.jogo iframe {
+      width: 484px;
+      height: 402px;
+    }
+  }
+
+@media screen and (max-width: 1440px) {
+    div.jogo{
+        width: calc(100% - 60px);
+        text-align: center;
+    }
+    div.comoJogarTrailers{
+        width: calc(100% - 60px);
+    }
+    #titulos{
+        text-align: center;
+    }
+}
+

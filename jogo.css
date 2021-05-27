@@ -1,0 +1,10 @@
+.jogo {
+  width: 743px;
+  display: inline-block;
+}
+
+#jogo {
+  border-radius: 20px;
+  margin-top: 10px;
+  margin-right: 10px;
+}

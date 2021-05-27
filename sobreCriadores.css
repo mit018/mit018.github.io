@@ -1,0 +1,23 @@
+#secoes img {
+  width: 60px;
+  height: 60px;
+  border-radius: 75px;
+  background-color: white;
+  float: left;
+  margin-right: 10px;
+}
+
+#criadores {
+  line-height: 15px;
+  text-align: left;
+  padding-bottom: 10px;
+}
+
+#descricao {
+  font-weight: lighter;
+  font-size: 12px;
+}
+
+#sobre {
+  margin-top: 10px;
+}
