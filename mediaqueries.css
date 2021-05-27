@@ -11,23 +11,48 @@
     width: 95%;
   }
 }
-@media screen and (max-width: 880px) {
-    div.jogo iframe {
-      width: 484px;
-      height: 402px;
-    }
-  }
 
-@media screen and (max-width: 1440px) {
-    div.jogo{
-        width: calc(100% - 60px);
-        text-align: center;
-    }
-    div.comoJogarTrailers{
-        width: calc(100% - 60px);
-    }
-    #titulos{
-        text-align: center;
-    }
+@media screen and (max-width: 990px) {
+  div hr {
+    display: none;
+  }
+}
+@media screen and (max-width: 880px) {
+  div #jogo {
+    width: 484px;
+    height: 402px !important;
+  }
+  div.jogo iframe {
+    width: 484px;
+    height: 402px;
+  }
 }
 
+@media screen and (max-width: 580px) {
+  div #jogo {
+    display: none;
+  }
+  
+}
+
+
+@media screen and (max-width: 1440px) {
+  div.jogo {
+    width: calc(100% - 60px);
+    text-align: center;
+  }
+  div #jogo {
+    height: 603px;
+  }
+  div #jogoLink{
+    text-align: center;
+  }
+  
+
+  div.comoJogarSobreGenios {
+    width: calc(100% - 60px);
+  }
+  #titulos {
+    text-align: center;
+  }
+}

@@ -1,4 +1,4 @@
-#secoes img {
+#criadores img {
   width: 60px;
   height: 60px;
   border-radius: 75px;
@@ -20,4 +20,10 @@
 
 #sobre {
   margin-top: 10px;
+}
+
+.sobreCriadores {
+  display: inline-block;
+  padding: 15px;
+  width: 45%;
 }

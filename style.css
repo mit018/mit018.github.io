@@ -1,22 +1,21 @@
 div#tudo.container-fluid {
-background-color: rgb(10,28,30);
+  background-color: rgb(10, 28, 30);
   padding: 0;
   font-family: BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell,
     "Open Sans", "Helvetica Neue", sans-serif;
   color: white;
 }
 
-#titulos{
-    font-size: 50px;
-    font-weight: lighter;
-    display: block;
-    margin-bottom: 10px;
+#titulos {
+  font-size: 50px;
+  font-weight: lighter;
+  display: block;
+  margin-bottom: 10px;
 }
 
 #secoes {
   background-color: rgba(0, 0, 0, 0.651);
   border-radius: 20px;
-  overflow: auto;
   padding: 15px 30px 30px 30px;
   height: 100%;
 }
@@ -28,7 +27,11 @@ background-color: rgb(10,28,30);
 }
 
 #rodape {
-  background-color: rgba(45, 103, 121, 0.589);
+  background-color: rgba(0, 0, 0, 0.651);
   color: white;
   text-align: center;
+}
+
+#conteudo_rodape{
+  margin:15px;
 }

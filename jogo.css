@@ -7,4 +7,27 @@
   border-radius: 20px;
   margin-top: 10px;
   margin-right: 10px;
+  width: 727px;
+  height: 86%;
+}
+
+
+#jogoLink {
+  font-size: smaller;
+  color: rgba(255, 255, 255, 0.582);
+  text-align: right;
+  margin-right: 15px;
+  margin-top: 5px;
+}
+
+.jogo button {
+  border-radius: 75px;
+  background-color: black;
+  border-color: transparent;
+  margin-left: 5px;
+}
+.jogo a {
+  margin: 5px;
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.582);
 }

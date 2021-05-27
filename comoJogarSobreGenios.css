@@ -1,0 +1,31 @@
+
+.comoJogarSobreGenios {
+  width: calc(100% - 773px);
+  display: inline-block;
+  margin-left: 10px;
+}
+
+
+#fotosGenios{
+  width: 30%;
+  
+}
+
+#fotosGenios img{
+  border-radius: 10px;
+  width: 90px;
+  height: 100px;
+  float: left;
+  margin-right: 15px;
+  margin-top: 15px;
+}
+
+#nomeGenios{
+  display: block;
+  font-size: larger;
+}
+
+
+
+
+
