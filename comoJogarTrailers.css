@@ -1,0 +1,22 @@
+.sobreCriadores {
+  display: inline-block;
+  padding: 15px;
+  width: 45%;
+}
+
+.comoJogarTrailers {
+  width: calc(100% - 773px);
+  display: inline-block;
+  margin-left: 10px;
+}
+
+#trailers iframe {
+  border-radius: 20px;
+  width: 90%;
+  height: 400px;
+}
+
+#trailers {
+  margin-top: 20px;
+  text-align: center;
+}
