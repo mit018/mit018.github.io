@@ -22,6 +22,12 @@
   margin-top: 10px;
 }
 
+a#scratch{
+  text-decoration: none;
+  color: rgb(173, 164, 164);
+  border: none;
+}
+
 .sobreCriadores {
   display: inline-block;
   padding: 15px;

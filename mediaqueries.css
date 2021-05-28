@@ -5,7 +5,14 @@
   div.principal {
     width: 98%;
   }
+  div.trailers {
+    width: 98%;
+  }
+  div #trailer iframe {
+    height: 300px !important;
+  }
 }
+
 @media screen and (max-width: 800px) {
   div.sobreCriadores {
     width: 95%;
@@ -15,6 +22,9 @@
 @media screen and (max-width: 990px) {
   div hr {
     display: none;
+  }
+  div #trailer {
+    width: 100%;
   }
 }
 @media screen and (max-width: 880px) {
@@ -32,9 +42,7 @@
   div #jogo {
     display: none;
   }
-  
 }
-
 
 @media screen and (max-width: 1440px) {
   div.jogo {
@@ -44,11 +52,12 @@
   div #jogo {
     height: 603px;
   }
-  div #jogoLink{
+  div #jogoLink {
     text-align: center;
   }
-  
-
+  div #trailer iframe {
+    height: 350px;
+  }
   div.comoJogarSobreGenios {
     width: calc(100% - 60px);
   }

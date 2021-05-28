@@ -1,6 +1,5 @@
 div#tudo.container-fluid {
   background-color: rgb(10, 28, 30);
-  padding: 0;
   font-family: BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell,
     "Open Sans", "Helvetica Neue", sans-serif;
   color: white;
@@ -21,7 +20,6 @@ div#tudo.container-fluid {
 }
 
 .principal {
-  display: inline-block;
   padding: 15px;
   width: 90%;
 }
