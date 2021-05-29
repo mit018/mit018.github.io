@@ -24,6 +24,16 @@ div#tudo.container-fluid {
   width: 90%;
 }
 
+#start{
+  display: inline-block;
+}
+
+#start img{
+  width: 15px;
+  height: 15px;
+  margin: 0px 0px 3px 0px;
+}
+
 #rodape {
   background-color: rgba(0, 0, 0, 0.651);
   color: white;
@@ -32,4 +42,8 @@ div#tudo.container-fluid {
 
 #conteudo_rodape{
   margin:15px;
+}
+
+html{
+  scroll-behavior: smooth;
 }
