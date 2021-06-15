@@ -1,17 +1,14 @@
-
 .comoJogarSobreGenios {
   width: calc(100% - 773px);
   display: inline-block;
   margin-left: 10px;
 }
 
-
-#fotosGenios{
+#fotosGenios {
   width: 30%;
-  
 }
 
-#fotosGenios img{
+#fotosGenios img {
   border-radius: 10px;
   width: 90px;
   height: 100px;
@@ -20,12 +17,11 @@
   margin-top: 15px;
 }
 
-#nomeGenios{
+#nomeGenios {
   display: block;
   font-size: larger;
 }
 
-
-
-
-
+#nomeGenios a {
+  color: rgb(173, 164, 164);
+}
