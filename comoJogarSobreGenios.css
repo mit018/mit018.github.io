@@ -25,3 +25,14 @@
 #nomeGenios a {
   color: rgb(173, 164, 164);
 }
+
+#perguntas a{
+  color: rgb(173, 164, 164);
+  text-decoration: none;
+}
+
+#perguntas{
+  text-align: center;
+  justify-content: center;
+}
+

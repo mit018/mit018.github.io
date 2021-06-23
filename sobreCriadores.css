@@ -22,7 +22,7 @@
   margin-top: 10px;
 }
 
-a#scratch{
+a#scratch {
   text-decoration: none;
   color: rgb(173, 164, 164);
   border: none;
@@ -32,4 +32,37 @@ a#scratch{
   display: inline-block;
   padding: 15px;
   width: 45%;
+}
+
+#perfis button {
+  color: white;
+  font-size: 10px;
+  font-weight: lighter;
+  border: none;
+  border-radius: 75px;
+  margin: 5px 5px 0px 0px;
+  float: left;
+}
+#git {
+  background-color: rgb(24, 28, 36);
+}
+#in {
+  background-color: rgb(16, 100, 196);
+}
+#cv {
+  background-image: linear-gradient(rgb(10, 77, 122), rgb(2, 44, 75));
+}
+
+#youtube img{
+  height: 30px;
+  width: 30px;
+  
+}
+
+#youtube button{
+  border: none;
+  background-color: transparent;
+  float: right;
+  margin: 5px 0px 15px 0px;
+  padding: 0;
 }
