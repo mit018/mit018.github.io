@@ -22,8 +22,9 @@
   font-size: larger;
 }
 
-#nomeGenios a {
+#SobreGenios a {
   color: rgb(173, 164, 164);
+  text-decoration: none;
 }
 
 #perguntas a{
